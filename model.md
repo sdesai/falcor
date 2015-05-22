@@ -626,3 +626,4 @@ Typically a path that has been optimized can be retrieved more efficiently by th
 
 
 When attempting to retrieve paths from the cache, Models optimize paths whenever they encounter references. This means that even if a Model is not able to find the requested data in its local cache, it may be able to request a more optimized path from the data source.
+ 
