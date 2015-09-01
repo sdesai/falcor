@@ -1,3 +1,3 @@
 describe('RequestQueue', function() {
-    require('./RequestQueue.spec.js');
+    require('./RequestQueue.get.spec');
 });
